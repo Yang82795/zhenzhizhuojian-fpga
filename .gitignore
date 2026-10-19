@@ -1,0 +1,32 @@
+# Anlogic TD compilation databases & intermediate files
+*.db
+*.timing
+*.qor
+*.status
+*.f
+*.bid
+*.ts
+*.area
+*.rpt
+cw/
+.recent_user_depot.ini
+camera_to_dsi_display_Runs/phy_1/
+camera_to_dsi_display_Runs/syn_1/
+
+# Crash dumps & temp files
+*.dmp
+minidump*
+*.tmp
+.temp*
+
+# Logs
+log/
+*.log
+*.logw
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary scratch files
+_*
